@@ -1,0 +1,91 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top; 
+
+}
+
+.logo{
+    width: 23%; 
+    padding: 1%; 
+    text-align: center; 
+}
+
+img.logo{
+    position: center; 
+    width:30px;
+
+}
+img{
+    border-radius: 4px;
+    width:30px;
+}
+#profilePic{
+    width: 200px; 
+}
+
+nav{
+    width: 73%; 
+    padding: 1%; 
+}
+.navigation{
+    background-color: gray;
+}
+button{
+    background-color: transparent; 
+    font-size: 14px;
+    border-radius: 4px;
+    border-color: white;
+    border-style: solid;
+    
+
+}
+ul{
+    width: 50%; 
+    margin-left: auto; 
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+        position: center; 
+        display: inline-block; 
+        vertical-align: top;
+}
+
+.heroImg{
+    height: 600px; 
+    padding: 25px; 
+    position: center;
+
+}
+
+.content{
+    width: 500px; 
+    margin: 0 auto; 
+    background-color: grey;    
+    position: center;
+    text-align: center;
+
+}
+
+footer{
+    background-color: #373738; 
+    padding: 70px 0; 
+    vertical-align: top;
+}
+
+footer ul {
+    display: inline-block; 
+    vertical-align: top;
+}
+footer li {
+   position: center; 
+   display: inline-block; 
+   vertical-align: top;
+}
+
+body{
+    background-image: url("../city3.jpg");
+    background-size: cover;
+    background-repeat: no repeat;
+    font-family: 'Montserrat', sans-serif;
+}
